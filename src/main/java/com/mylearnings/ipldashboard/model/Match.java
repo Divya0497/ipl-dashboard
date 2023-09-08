@@ -23,6 +23,8 @@ public class Match {
     private String resultMargin;    
     private String umpire1; 
     private String umpire2;
+
+    
     public Long getId() {
         return id;
     }
